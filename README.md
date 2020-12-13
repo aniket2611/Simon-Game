@@ -5,3 +5,4 @@ Normal to Insane!..
 
 You can try the game on - https://aniket2611.github.io/Simon-Game/
 
+![](/images/simon-game-image.png)
